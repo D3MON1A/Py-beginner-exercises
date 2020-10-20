@@ -101,7 +101,7 @@
         {
             "slug": "06-String-Concatenation",
             "title": "06-String-Concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/06-String-Concatenation",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "07-Create-a-Basic-HTML",
             "title": "07-Create-a-Basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-a-Basic-HTML",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "08-Your-First-If",
             "title": "08-Your-First-If",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Your-First-If",
             "translations": [
                 "es",
